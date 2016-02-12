@@ -32,14 +32,13 @@
         <section class="navigation">
             <header>
                 <div class="header-content">
-                    <div class="logo"><a href="#"><img src="img/logo_odhd3_sm.png" alt="ODD logo"></a></div>
+                    <div class="logo"><a href="#"><img src="" alt="ODD logo"></a></div>
                     <div class="header-nav">
                         <nav>
                             <ul class="primary-nav">
-                                <li><a href="#odd">der ODD</a></li>
-                                <li><a href="#intro">Intro</a></li>
-                                <li><a href="#schedule"> Ablauf</a></li>
-                                <li><a href="#anmeldung">Anmeldung</a></li>
+                                <li><a href="#features">Features</a></li>
+                                <li><a href="#assets">Assets</a></li>
+                                <li><a href="#blog">Blog</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -54,34 +53,33 @@
                 <div class="col-md-10 col-md-offset-1">
                     <div class="hero-content text-center">
                         <h1>OpenDataDay Cologne 2016</h1>
-                        <p class="intro">Am Samstag den 5. März findet der internationale OpenDataDay statt.<br><br>
-                        Du bist Coder*in, Designer*in, Journalist*in, politisch engagiert oder einfach nur interessiert? Prima!</p>
-                        <a href="#intro" class="btn btn-fill btn-large btn-margin-right">Weitere Infos</a> <a href="#" class="btn btn-accent btn-large">Anmeldung</a>
+                        <p class="intro">Am Samstag den 5. März findet der internationale OpenDataDay statt... Auch in Köln wird es eine Veranstaltung geben. In kürze findest du hier mehr Infos dazu!</p>
+                        <a href="#" class="btn btn-fill btn-large btn-margin-right">t.b.a</a> <a href="#" class="btn btn-accent btn-large">Learn more</a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="down-arrow floating-arrow"><a href="#"><i class="fa fa-angle-down"></i></a></div>
     </section>
-    <section id="intro" class="intro section-padding">
+    <section class="intro section-padding">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 intro-feature">
-                    <div class="intro-icon">
-                        <span data-icon="&#xe030;" class="icon"></span>
-                    </div>
-                    <div class="intro-content">
-                        <h5>Ideenfindung</h5>
-                        <p>Überlege dir im Vorfeld, was du über deine Stadt schon immer wissen woltest oder welche App dein Leben einfacher machen würde? Sei es der beliebteste Vorname, die aktuelle Funktionstüchtigkeit der KVB Fahrstühle, die Parkplatzsituation usw...</p>
-                    </div>
-                </div>
                 <div class="col-md-4 intro-feature">
                     <div class="intro-icon">
                         <span data-icon="&#xe033;" class="icon"></span>
                     </div>
                     <div class="intro-content">
-                        <h5>Ideen Teilen</h5>
-                        <p>An dem Tag werden wir gemeinsam herausfinden, welche Ideen umsetzbar sind und unseren Alltag vereinfachen. Jeder kann sich einer Idee anschließen und mit seinen Fähigkeiten bei der Konkretisierung unterstützen.</p>
+                        <h5>Easily Customised</h5>
+                        <p>Easily customise  to suit your start up, portfolio or product. Take advantage of the layered Sketch file and bring your product to life.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 intro-feature">
+                    <div class="intro-icon">
+                        <span data-icon="&#xe030;" class="icon"></span>
+                    </div>
+                    <div class="intro-content">
+                        <h5>Modern Design</h5>
+                        <p>Designed with modern trends and techniques in mind, we will help your product stand out in an already saturated market.</p>
                     </div>
                 </div>
                 <div class="col-md-4 intro-feature">
@@ -89,28 +87,28 @@
                         <span data-icon="&#xe046;" class="icon"></span>
                     </div>
                     <div class="intro-content last">
-                        <h5>Konzept/App entwickeln</h5>
-                        <p>Ob als Idee auf Papier oder direkt als App kann die Idee an dem Tag umgesetzt werden. Wenn die Zeit nicht reicht, gibt es Folgetermine, um daran weiter zu arbeiten.</p>
+                        <h5>Responsive Development</h5>
+                        <p>Built using the latest web technologies like html5, css3, and jQuery, rest assured this will look smashing on every device under the sun.</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    <section class="features section-padding" id="odd">
+    <section class="features section-padding" id="features">
         <div class="container">
             <div class="row">
-                <div class="col-md-8 col-md-offset-2">
+                <div class="col-md-5 col-md-offset-7">
                     <div class="feature-list">
-                        <h3>Der Open Data Day ist ein Community Event</h3>
-                        <p>In über 100 Städten findet er weltweit statt. Wer sehen will wo, <a href="http://opendataday.org">findet hier eine Karte.</a> Der Open Data Day ist offen für alle: </p>
+                        <h3>This will drive your product forward</h3>
+                        <p>Present your product, start up, or portfolio in a beautifully modern way. Turn your visitors in to clients.</p>
                         <ul class="features-stack">
                             <li class="feature-item">
                                 <div class="feature-icon">
                                     <span data-icon="&#xe03e;" class="icon"></span>
                                 </div>
                                 <div class="feature-content">
-                                    <h5>Tausche dich aus</h5>
-                                    <p>Du willst wissen, was im letzten Jahr entwicklet wurde? <a href="https://hackdash.org/dashboards/odd15">hier findest du Anregungen für weitere Ideen.</a> Oder trage deine Idee direkt dort auf der Seite ein.</p>
+                                    <h5>Universal & Responsive</h5>
+                                    <p>This is universal and will look smashing on any device.</p>
                                 </div>
                             </li>
                             <li class="feature-item">
@@ -118,8 +116,8 @@
                                     <span data-icon="&#xe040;" class="icon"></span>
                                 </div>
                                 <div class="feature-content">
-                                    <h5>Lausche Vortägen</h5>
-                                    <p>An dem Tag wird es ein paar kleine Vorträge geben. Ziel ist es die Bekanntheit von Open Data zu steigern, weitere Daten zu öffnen und zu zeigen, welches Potenzial in offenen Daten steckt.</p>
+                                    <h5>User Centric Design</h5>
+                                    <p>take advantages of common design patterns, allowing for a seamless experience for users of all levels.</p>
                                 </div>
                             </li>
                             <li class="feature-item">
@@ -127,8 +125,8 @@
                                     <span data-icon="&#xe03c;" class="icon"></span>
                                 </div>
                                 <div class="feature-content">
-                                    <h5>Experimentiere</h5>
-                                    <p>Der Tag ist da, um zu experimentieren, sich aus zu probieren und auch um Fehler zu machen. Wir haben nicht den Anspruch ein fertiges Produkt ab zu liefern sonder gemeinsam Spass zu haben.</p>
+                                    <h5>Clean reusable code</h5>
+                                    <p>Download and re-use this open source code for any other project you like.</p>
                                 </div>
                             </li>
                         </ul>
@@ -136,9 +134,15 @@
                 </div>
             </div>
         </div>
+        <div class="device-showcase">
+            <div class="devices">
+                <div class="ipad-wrap wp1"></div>
+                <div class="iphone-wrap wp2"></div>
+            </div>
+        </div>
+        <div class="responsive-feature-img"><img src="img/devices.png" alt="responsive devices"></div>
     </section>
-
-<!--     <section class="features-extra section-padding" id="assets">
+    <section class="features-extra section-padding" id="assets">
         <div class="container">
             <div class="row">
                 <div class="col-md-5">
@@ -246,51 +250,8 @@
                 <a href="#" class="btn btn-ghost btn-accent btn-small">More news</a>
             </div>
         </div>
-    </section> -->
-    <section class="section-padding" id="schedule">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8 col-md-offset-2">
-            <h2 class="text-center">Tageablauf</h2>
-            <hr class="aligncenter mb">
-            <h4 class="text-center">Samstag, 5 März 2016</h4>
-            <div class="panel-group">
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree1">
-                      10:00 - 10:30<br/>
-                      <tg>Ankommen</tg>
-                    </a>
-                  </h4>
-                </div>
-              </div>
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour1">
-                      10:30 - 12:30<br/>
-                      <tg>Vortäge & Austausch</tg>
-                    </a>
-                  </h4>
-                </div>
-              </div>
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4 class="panel-title">
-                    <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive1">
-                      12:30 - 18:00<br/>
-                      <tg>Konzept/App Entwicklung <br> dazwischen irgendwann die Mittagspause<br> (Für Getränge wird auch gesorgt)</tg>
-                    </a>
-                  </h4>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
     </section>
-<!--     <section class="testimonial-slider section-padding text-center">
+    <section class="testimonial-slider section-padding text-center">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -316,14 +277,14 @@
                 </div>
             </div>
         </div>
-    </section> -->
-    <section class="sign-up section-padding text-center" id="anmeldung">
+    </section>
+    <section class="sign-up section-padding text-center" id="download">
         <div class="container">
             <div class="row">
                 <div class="col-md-6 col-md-offset-3">
-                    <h3>Melde dich an!</h3>
-                    <p>Hier gibt es bald ein Link zur Anmeldung</p>
-                    <!-- <form class="signup-form" action="#" method="POST" role="form">
+                    <h3>Get started, absolutely free</h3>
+                    <p>Grab your copy today</p>
+                    <form class="signup-form" action="#" method="POST" role="form">
                         <div class="form-input-group">
                             <i class="fa fa-envelope"></i><input type="text" class="" placeholder="Enter your email" required>
                         </div>
@@ -331,7 +292,7 @@
                             <i class="fa fa-lock"></i><input type="text" class="" placeholder="Enter your password" required>
                         </div>
                         <button type="submit" class="btn-fill sign-up-btn">Sign up for free</button>
-                    </form> -->
+                    </form>
                 </div>
             </div>
         </div>
@@ -351,10 +312,9 @@
                 <div class="col-md-7">
                     <div class="footer-links">
                         <ul class="footer-group">
-                            <li><a href="#intro">Info</a></li>
-                            <li><a href="#odd">der ODD</a></li>
-                            <li><a href="#schedule"> Ablauf</a></li>
-                            <li><a href="#anmeldung">Anmeldung</a></li>
+                            <li><a href="#">Features</a></li>
+                            <li><a href="#">Pricing</a></li>
+                            <li><a href="#">Sign up</a></li>
                         </ul>
                         <p>Copyright © 2016 <a href="#">OKLab Cologne</a><br>
                         Crafted with <span class="fa fa-heart pulse2"></span> by <a href="http://www.peterfinlan.com/">Peter Finlan</a>.</p>
