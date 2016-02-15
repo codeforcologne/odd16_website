@@ -86,6 +86,12 @@ section.features, section.blog-intro, section.blog {
 /* ==========================================================================
 Global Styles
 ========================================================================== */
+#map {
+  width: 100%;
+  margin: 0;
+  height: 400px;
+}
+
 .group:after {
   content: "";
   display: table;
